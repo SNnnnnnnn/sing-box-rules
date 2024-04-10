@@ -4,7 +4,6 @@
     {
       "process_name": [
         // W-Windows
-        "aria2c.exe",
         "BvSsh.exe",
         "croc.exe",
         "DeltaChat.exe",
