@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "process_name": [
+        // W-Windows
+        "aria2c.exe",
+        "BvSsh.exe",
+        "croc.exe",
+        "DeltaChat.exe",
+        "DownloadSDKServer.exe",
+        "frpc.exe",
+        "frps.exe",
+        "IDMan.exe",
+        "qbittorrent.exe",
+        "Thunder.exe",
+        "uu.exe",
+        "wireguard.exe",
+        // L-Linux
+        "aria2c",
+        "croc",
+        "frpc",
+        "frps",
+        "qbittorrent",
+        "qbittorrent-nox",
+        "wireguard"
+      ]
+    }
+  ]
+}

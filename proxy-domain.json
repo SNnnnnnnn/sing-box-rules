@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        // P-Pikpak
+        "pi-drive.mypikpak.com",
+        "mypikpak.com"
+      ],
+      "domain_suffix": [
+        // D-Dropbox
+        ".dropbox.com",
+        ".dropboxapi.com",
+        // F-Facebook
+        ".facebook.com",
+        // G-Google
+        ".google.com",
+        ".youtube.com",
+        // J-JavDB
+        ".javdb.com",
+        // O-OpenAI
+        ".openai.com",
+        // S-Signal
+        ".signal.org",
+        // T-Twitter
+        ".twitter.com",
+        ".v2ex.com"
+      ]
+    }
+  ]
+}
