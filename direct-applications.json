@@ -4,25 +4,10 @@
     {
       "process_name": [
         // W-Windows
-        "BvSsh.exe",
-        "croc.exe",
-        "DeltaChat.exe",
-        "DownloadSDKServer.exe",
-        "frpc.exe",
-        "frps.exe",
         "IDMan.exe",
-        "qbittorrent.exe",
-        "Thunder.exe",
         "uu.exe",
-        "wireguard.exe",
         // L-Linux
-        "aria2c",
-        "croc",
-        "frpc",
-        "frps",
-        "qbittorrent",
-        "qbittorrent-nox",
-        "wireguard"
+        "qbittorrent-nox"
       ]
     }
   ]
