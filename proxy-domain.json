@@ -4,7 +4,7 @@
     {
       "domain": [
         // P-Pikpak
-        "pi-drive.mypikpak.com",
+        "api-drive.mypikpak.com",
         "mypikpak.com"
       ],
       "domain_suffix": [
