@@ -7,28 +7,32 @@
         "github.com",
         // P-Pikpak
         "api-drive.mypikpak.com",
-        "mypikpak.com"
+        "config.mypikpak.com",
+        "mypikpak.com",
+        "user.mypikpak.com"
       ],
       "domain_suffix": [
         // D-Dropbox
         ".dropbox.com",
         ".dropboxapi.com",
-        // F-Facebook
-        ".facebook.com",
         // G-GitHub
         ".github.com",
         ".githubusercontent.com",
         // G-Google
         ".google.com",
         ".youtube.com",
-        // J-JavDB
-        ".javdb.com",
+        // M-Mega
+        ".api.mega.co.nz",
+        // M-Microsoft
+        ".microsoftonline.com",
+        ".office365.com",
         // O-OpenAI
         ".openai.com",
         // S-Signal
         ".signal.org",
         // T-Twitter
         ".twitter.com",
+        // V-V2ex
         ".v2ex.com"
       ]
     }
