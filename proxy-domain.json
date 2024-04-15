@@ -21,8 +21,6 @@
         // G-Google
         ".google.com",
         ".youtube.com",
-        // M-Mega
-        ".api.mega.co.nz",
         // M-Microsoft
         ".microsoftonline.com",
         ".office365.com",
@@ -30,10 +28,9 @@
         ".openai.com",
         // S-Signal
         ".signal.org",
-        // T-Twitter
-        ".twitter.com",
-        // V-V2ex
-        ".v2ex.com"
+        // Y-Yahoo
+        ".yahoo.com",
+        ".yimg.com"
       ]
     }
   ]
