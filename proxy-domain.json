@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain": [
+        // G-GitHub
+        "github.com",
         // P-Pikpak
         "api-drive.mypikpak.com",
         "mypikpak.com"
@@ -13,6 +15,8 @@
         ".dropboxapi.com",
         // F-Facebook
         ".facebook.com",
+        // G-GitHub
+        ".github.com",
         // G-Google
         ".google.com",
         ".youtube.com",
