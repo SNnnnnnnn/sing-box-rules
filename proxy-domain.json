@@ -26,6 +26,7 @@
         // G-Google
         ".google.com",
         // M-Microsoft
+        ".live.com",
         ".microsoftonline.com",
         ".office365.com",
         // O-OpenAI
