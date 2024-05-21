@@ -565,9 +565,12 @@
       ],
       "domain_regex": [
         // ?1-Private Tracker
-        ".announce.",
-        ".torrent.",
-        ".tracker."
+        "^.*announce.*$",
+        "^.*torrent.*$",
+        "^.*tracker.*$"
+        // ?2-example
+        // "^([a-zA-Z0-9_-]+\\.)*[a-zA-Z0-9_-]*dubo\\.com$",
+        // "^([a-zA-Z0-9_-]+\\.)*duboku\\.[a-zA-Z0-9_-]+$",
       ]
     }
   ]
