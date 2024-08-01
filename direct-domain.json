@@ -202,6 +202,8 @@
         ".letvimg.com",
         ".letvlive.com",
         ".letvstore.com",
+        // L-Let's Encryp
+        ".api.letsencrypt.org",
         // M-芒果TV
         ".hitv.com",
         ".hunantv.com",
