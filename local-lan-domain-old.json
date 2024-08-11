@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "local",
+        "localhost"
+      ],
+      "domain_suffix": [
+        ".routerlogin.net"
+      ]
+    }
+  ]
+}
