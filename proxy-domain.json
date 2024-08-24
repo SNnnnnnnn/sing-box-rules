@@ -2,13 +2,6 @@
   "version": 1,
   "rules": [
     {
-      "domain": [
-        // P-Pikpak
-        "api-drive.mypikpak.com",
-        "config.mypikpak.com",
-        "mypikpak.com",
-        "user.mypikpak.com"
-      ],
       "domain_suffix": [
         // D-Deepl
         "deepl.com",
