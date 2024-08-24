@@ -3,10 +3,14 @@
   "rules": [
     {
       "domain_suffix": [
+        // G-Google
+        "googlevideo.com",
         // P-Pikpak
         ".mypikpak.com",
-        // G-Google
-        "googlevideo.com"
+        // T-Twitch
+        "jtvnw.net",
+        "live-video.net",
+        "ttvnw.net"
       ]
     }
   ]
