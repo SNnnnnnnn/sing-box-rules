@@ -2,9 +2,26 @@
   "version": 1,
   "rules": [
     {
+      "domain": [
+        // G-Google
+        "jnn-pa.googleapis.com",
+        "youtubei.googleapis.com",
+        "yt3.ggpht.com",
+        "yt4.ggpht.com"
+      ],
       "domain_suffix": [
         // G-Google
         "googlevideo.com",
+        "gvt2.com",
+        "withyoutube.com",
+        "youtu.be",
+        "youtube.com",
+        "youtube-nocookie.com",
+        "youtubeeducation.com",
+        "youtubegaming.com",
+        "youtubekids.com",
+        "yt.be",
+        "ytimg.com",
         // P-Pikpak
         "mypikpak.com"
       ]
