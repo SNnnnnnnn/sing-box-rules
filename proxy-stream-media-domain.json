@@ -10,6 +10,8 @@
         "yt4.ggpht.com"
       ],
       "domain_suffix": [
+        // F-Filen
+        "filen.io",
         // G-Google
         "googlevideo.com",
         "gvt2.com",
@@ -24,6 +26,10 @@
         "ytimg.com",
         // P-Pikpak
         "mypikpak.com"
+      ],
+      "domain_regex": [
+        // F-Filen
+        "^[a-zA-Z0-9_-]+\\.filen(-[a-zA-Z0-9_-]+)?\\.net$"
       ]
     }
   ]

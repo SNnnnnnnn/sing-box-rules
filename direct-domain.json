@@ -137,8 +137,6 @@
         "douyutv.com",
         "douyux.com",
         "edgesrv.com",
-        // F-Filen
-        "filen.io",
         // G-Glitch
         "glitch.com",
         "glitch.global",
@@ -561,8 +559,6 @@
         "zhaopin.com"
       ],
       "domain_regex": [
-        // F-Filen
-        "^[a-zA-Z0-9_-]+\\.filen(-[a-zA-Z0-9_-]+)?\\.net$",
         // ?1-Private Tracker
         "^.*announce.*$",
         "^.*torrent.*$",
