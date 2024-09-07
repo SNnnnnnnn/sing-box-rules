@@ -4,10 +4,12 @@
     {
       "process_name": [
         // W-Windows
+        "frpc.exe",
         "IDMan.exe",
         "simple_live_app.exe",
         "uu.exe",
         // L-Linux
+        "frpc",
         "qbittorrent-nox"
       ]
     }
