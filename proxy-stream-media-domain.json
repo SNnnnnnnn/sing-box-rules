@@ -5,9 +5,7 @@
       "domain": [
         // Y-YouTube
         "jnn-pa.googleapis.com",
-        "youtubei.googleapis.com",
-        "yt3.ggpht.com",
-        "yt4.ggpht.com"
+        "youtubei.googleapis.com"
       ],
       "domain_suffix": [
         // T-Twitch
