@@ -8,6 +8,13 @@
         "youtubei.googleapis.com"
       ],
       "domain_suffix": [
+        // D-Duboku
+        "duboku.co",
+        "duboku.com",
+        "duboku.net",
+        "duboku.tv",
+        "uhibo.com",
+        "vdabo.com",
         // T-Twitch
         "twitch.tv",
         "ext-twitch.tv",
@@ -33,6 +40,11 @@
         "ytimg.com",
         // P-Pikpak
         "mypikpak.com"
+      ],
+      "domain_regex": [
+        // D-Duboku
+        "^[a-zA-Z0-9_-]+\\.[a-zA-Z0-9_-]{1}boku\\.com$",
+        "^[a-zA-Z0-9_-]+\\.[a-zA-Z0-9_-]{1}dubo\\.com$"
       ]
     }
   ]
