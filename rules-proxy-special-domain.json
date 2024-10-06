@@ -3,9 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        // Y-Yahoo
-        "yahoo.com",
-        "yimg.com"
+        // L-Linux.do
+        "linux.do"
       ]
     }
   ]
