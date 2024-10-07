@@ -9,9 +9,9 @@
         "simple_live_app.exe",
         "uu.exe",
         // L-Linux
-        "cloudflared",
+        "cloudflared"
         // "frpc",
-        "qbittorrent-nox"
+        // "qbittorrent-nox"
       ]
     }
   ]
