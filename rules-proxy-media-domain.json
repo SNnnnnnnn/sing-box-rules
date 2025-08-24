@@ -43,9 +43,7 @@
         "youtubegaming.com",
         "youtubekids.com",
         "yt.be",
-        "ytimg.com",
-        // P-Pikpak
-        "mypikpak.com"
+        "ytimg.com"
       ],
       "domain_regex": [
         // D-Duboku
