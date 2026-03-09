@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "process_name": [
+        // A-Android
+        "org.thoughtcrime.securesms",
+        // W-Windows
+        // "frpc.exe",
+        "Signal.exe"
+        // L-Linux
+        //"cloudflared"
+      ]
+    }
+  ]
+}
