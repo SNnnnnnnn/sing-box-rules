@@ -4,6 +4,7 @@
     {
       "process_name": [
         // A-Android
+        "net.thunderbird.android",
         "org.thoughtcrime.securesms",
         // W-Windows
         // "frpc.exe",
