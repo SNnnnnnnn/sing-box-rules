@@ -6,13 +6,6 @@
         // A-Android
         "net.thunderbird.android",
         "org.thoughtcrime.securesms"
-      ],
-      "process_name": [
-        // W-Windows
-        // "frpc.exe",
-        "Signal.exe"
-        // L-Linux
-        //"cloudflared"
       ]
     }
   ]
