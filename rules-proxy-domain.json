@@ -35,6 +35,9 @@
         "office365.com",
         // O-OpenAI
         "openai.com",
+        // R-Riot
+        "pvp.net",
+        //"riotgames.com",
         // S-Signal
         "signal.org"
       ]
