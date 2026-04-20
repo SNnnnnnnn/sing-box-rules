@@ -39,9 +39,7 @@
         "pvp.net",
         "riotgames.com",
         // S-Signal
-        "signal.org",
-        // TailScale
-        "tailscale.com"
+        "signal.org"
       ]
     }
   ]
