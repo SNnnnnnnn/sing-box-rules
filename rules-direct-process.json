@@ -7,9 +7,13 @@
         // "frpc.exe",
         "IDMan.exe",
         "simple_live_app.exe",
+        "tailscaled.exe",
         "uu.exe",
+        "zerotier-one_x64.exe",
         // L-Linux
-        "cloudflared"
+        "cloudflared",
+        "tailscaled",
+        "zerotier-one"
         // "frpc",
         // "qbittorrent-nox"
       ]
