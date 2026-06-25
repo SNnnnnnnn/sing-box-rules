@@ -4,7 +4,7 @@
     {
       "package_name": [
         // A-Android
-        "net.thunderbird.android",
+        "net.thunderbird.android1",
         "org.thoughtcrime.securesms"
       ]
     }
