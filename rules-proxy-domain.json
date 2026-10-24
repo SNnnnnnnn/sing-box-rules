@@ -16,6 +16,10 @@
       "domain_suffix": [
         // D-Deepl
         "deepl.com",
+        // DeltaChat
+        "nine.testrun.org",
+        // D-Disroot,
+        "disroot.org",
         // D-Dropbox
         "dropbox.com",
         "dropboxapi.com",
