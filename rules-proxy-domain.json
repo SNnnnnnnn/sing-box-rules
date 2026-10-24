@@ -47,7 +47,9 @@
         // S-Signal
         "signal.org",
         // TailScale
-        "tailscale.com"
+        "tailscale.com",
+        // Vivaldi
+        "vivaldi.net"
       ]
     }
   ]
