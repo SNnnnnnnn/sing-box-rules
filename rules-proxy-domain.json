@@ -1,4 +1,4 @@
-{
+  {
   "version": 1,
   "rules": [
     {
@@ -25,6 +25,8 @@
         "dropboxapi.com",
         // D-DuckDuckGo
         "duckduckgo.com",
+        // Infomaniak
+        "infomaniak.com",
         // F-Firefox
         "thunderbird.net",
         // G-GitHub
