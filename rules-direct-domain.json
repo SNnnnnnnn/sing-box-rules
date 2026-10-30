@@ -3,8 +3,6 @@
   "rules": [
     {
       "domain": [
-        // M-Microsoft
-        "atm.outlook.mira.tm.svc.cloud.microsoft",
         // S-SteamCN
         "csgo.wmsj.cn",
         "dota2.wmsj.cn",
@@ -218,6 +216,9 @@
         "meitudata.com",
         "meitustat.com",
         "meipai.com",
+        // M-Microsoft
+        "office363.com",
+        "outlook.com",
         // N-Netlify
         "netlify.app",
         "netlify.com",
