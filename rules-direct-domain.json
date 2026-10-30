@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain": [
+        // M-Microsoft
+        "atm.outlook.mira.tm.svc.cloud.microsoft",
         // S-SteamCN
         "csgo.wmsj.cn",
         "dota2.wmsj.cn",
