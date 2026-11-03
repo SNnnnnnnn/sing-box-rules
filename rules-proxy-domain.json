@@ -37,6 +37,13 @@
         "google.com",
         // M-Mastodon
         "mastodon.social",
+        // M-Microsoft
+        "live.com",
+        "microsoftonline.com",
+        "microsoft.com",
+        "office363.com",
+        "office.net",
+        "outlook.com",
         // O-OpenAI
         "openai.com",
         // R-Riot
