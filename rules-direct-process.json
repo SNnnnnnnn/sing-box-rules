@@ -8,6 +8,7 @@
         "IDMan.exe",
         "simple_live_app.exe",
         "tailscaled.exe",
+        //"thunderbird.exe",
         "uu.exe",
         // L-Linux
         "cloudflared",
