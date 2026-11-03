@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
+        // F-Fofa
+        "fofa.so",
         // L-Linux.do
         "linux.do"
       ]
