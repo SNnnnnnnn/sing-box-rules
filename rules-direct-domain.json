@@ -219,7 +219,10 @@
         // M-Microsoft
         "live.com",
         "microsoftonline.com",
+        "microsoft.com",
+        "msftconnecttest.com",
         "office363.com",
+        "office.net",
         "outlook.com",
         // N-Netlify
         "netlify.app",
